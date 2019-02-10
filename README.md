@@ -15,6 +15,10 @@ APIs mainly used for collecting youtube comments are:
 APIs data is processed and the relevant data is made live to cloud from where servo motors take in the input 
 and rotate the camera's direction as per user's will.
 
+Processings done:
+1. Zoom in out feature by commenting / moving forward and backward
+2. Creating a 360 degree camera (VR view) by 1 camera 
+
 Such technology stack is of much relevance at every place where user experience of the videos need to be precise and more immersive as well as at broadcast level at very cost efficient manner.
 
 Some of its domains include:
