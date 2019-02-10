@@ -22,3 +22,6 @@ Some of its domains include:
 2. Office surveillance
 3. Sports (Cricket, Tennis etc.)
 4. Tourist places (eg. Qutub Minar, Red Fort etc.)
+
+Presentation Link:<br>
+https://github.com/iamjaspreetsingh/SuperView/blob/master/SuperView%20ppt.pdf
