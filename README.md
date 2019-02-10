@@ -1,6 +1,8 @@
-# CricView
-### To give experience to user as spectator of cricket ground from home
-2 modules
+# SuperView
+### 
+In this project we aim to give the user a personal viewing experience of the places where human intervention is not feasible or of the places that are comparatively difficult to reach by humans.
+It consists of 2 modules:
+
 1. VR
 2. OCYV (On Command Youtube View)
 
