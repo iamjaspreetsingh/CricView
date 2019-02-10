@@ -74,11 +74,10 @@ def get_comment_threads(youtube, video_id):
 
     elif "zoom" == text:
         if c==0:
-               c=1
-               res=firebase.put("/","zoom",c)
+            c=1
+            res=firebase.put("/","zoom",c)
         elif c==1:
-	       
-	       res=firebase.put("/","zoom",2)
+          res=firebase.put("/","zoom",2)
     break
   return results["items"]
 
