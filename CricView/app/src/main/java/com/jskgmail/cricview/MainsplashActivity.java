@@ -1,4 +1,4 @@
-package com.jskgmail.lifesaver;
+package com.jskgmail.cricview;
 
 import android.content.Intent;
 import android.content.pm.ActivityInfo;

@@ -1,4 +1,4 @@
-package com.jskgmail.lifesaver;
+package com.jskgmail.cricview;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

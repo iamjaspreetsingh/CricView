@@ -1,6 +1,5 @@
-package com.jskgmail.lifesaver;
+package com.jskgmail.cricview;
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;

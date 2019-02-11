@@ -1,4 +1,4 @@
-package com.jskgmail.lifesaver;
+package com.jskgmail.cricview;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
